@@ -1,0 +1,5 @@
+ctxTaskBar = 154, 161, 649, 632, , 22, 23, 517, 494, C
+mdWinAPI = 66, 69, 561, 540, 
+mdPaintSubclass = 176, 184, 671, 655, 
+cTaskBarInfo = 66, 69, 561, 540, 
+cTaskBarInfos = 88, 92, 583, 563, C
